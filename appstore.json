@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "Dopamine",
+      "bundleIdentifier": "com.example.app",
+      "version": "1.0.0",
+      "versionDate": "2024-01-01",
+      "size": 1024000,
+      "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.5b2/Dopamine.ipa",
+      "iconURL": "https://raw.githubusercontent.com/opa334/Dopamine/refs/heads/2.x/Application/Dopamine/Assets.xcassets/AppIcon.appiconset/Icon-38%402x.png"
+    }
+  ]
+}
